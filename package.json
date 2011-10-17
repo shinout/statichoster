@@ -1,0 +1,21 @@
+{
+  "name": "statichoster"
+, "version": "0.1.0"
+, "description": "host static files"
+, "tags": ["static", "files", "url", "http", "server", "hosting", "public"]
+, "author": "SHIN Suzuki <shinout310@gmail.com>"
+, "repository": 
+  { "type": "git"
+  ,  "url": "https://github.com/shinout/statichoster.git"
+  }
+, "bugs": {"url": "https://github.com/shinout/statichoster/issues" }
+, "licences": 
+  [ { "type": "MIT"
+    , "url": "https://github.com/shinout/statichoster/raw/master/LICENCE"
+    }
+  ]
+, "main": "./StaticHoster.js"
+, "dependencies": {
+    "junjo": "0.1.0"
+  }
+}
